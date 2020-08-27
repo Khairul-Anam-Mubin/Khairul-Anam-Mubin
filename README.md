@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/khairul-anam-mubin/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Mubin's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.stopstalk.com/user/profile/Mubin_BUBT38" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Mubin's Competitive Programming Profile" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codewars.svg" />
+</a>
+<a href="https://www.codechef.com/users/mubin_bubt38" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Mubin's CodeChef" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/codechef.svg" />
+</a>
+<br />
+<br />
 
-<!--
-**Khairul-Anam-Mubin/Khairul-Anam-Mubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋. I'm Mubin. I am a competitve programmer, **3 times Champion** on BUBT Intra University Programming Contest. I participated more than 5 international and national contests including the **ICPC and NCPC**. My interest covers Software Engineering. My core skills are **C++, Algorithms and Data Structures, BackEnd Development**. On the contrary, my minor skills cover **Desktop Application(.Net Framework), MySQl, Python, Java, HTML|CSS, PHP**.
