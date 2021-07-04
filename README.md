@@ -10,4 +10,4 @@
 <br />
 <br />
 
-Hi 👋. I'm Mubin. I am a competitve programmer, **4 times Champion** on BUBT Intra University Programming Contest. I participated more than 5 international and national contests including the **ICPC and NCPC**. My interest covers Software Engineering, Artificial Intelligence. My core skills are **C++, Algorithms and Data Structures, BackEnd Development**. On the contrary, my minor skills cover **Desktop Application(.Net Framework), MySQL, Python, Java, HTML|CSS, PHP**.
+Hi 👋. I'm Mubin. I am a competitve programmer, **4 times Champion** on BUBT Intra University Programming Contest. I participated more than 5 international and national contests including the **ICPC and NCPC**. Now, I am working as a **competitive programming trainer** in BUBT. I am also working as an part time **Instructor**(Math and CP) in Edunation. My interest covers Software Engineering, Artificial Intelligence. My core skills are **C++, Algorithms and Data Structure, Python**. On the contrary, my minor skills cover **Desktop Application(.Net Framework) with C#, MySQL, Java, HTML|CSS, Bootstrap, PHP**.
